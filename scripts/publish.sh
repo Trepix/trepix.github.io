@@ -22,7 +22,8 @@ echo "Generating site"
 make build
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+hash=`git log --pretty=format:'%h' -n 1`
+cd public && git add --all && git commit -m "[${hash}] Automatic publish"
 
 #echo "Pushing to github"
 #git push --all
