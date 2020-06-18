@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://trepix.github.io
 languageCode: en-us
 title: "Toha"
 theme: "toha"
@@ -10,7 +10,7 @@ markup:
       unsafe: true
 
 # Enable Google Analytics
-googleAnalytics: UA-xxxxxxxx
+googleAnalytics: UA-111585454-1
 
 # Enable Disqus forum
 disqusShortname: does-not-exist
@@ -19,6 +19,6 @@ disqusShortname: does-not-exist
 enableEmoji: true
 
 # Custom parameters
-params:
+#params:
   # Github Repo URL. This is used to add "Improve This Page" button
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  #gitRepo: https://github.com/hossainemruz/toha-example-site
