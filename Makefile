@@ -24,7 +24,7 @@ start-server: ## Start hugo server
 		-p 1313:1313 \
 		--name hugo \
 		$(HUGO_IMAGE):$(HUGO_VERSION) \
-		server -w --disableFastRender
+		server -w --disableFastRender -D
 
 .PHONY: terminal 
 terminal: ## Open shell inside server if docker is up
