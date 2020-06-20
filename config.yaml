@@ -1,6 +1,6 @@
 baseURL: https://trepix.github.io
 languageCode: en-us
-title: "Toha"
+title: "Trepix"
 theme: "toha"
 
 # Allow raw html in markdown file
@@ -19,6 +19,6 @@ disqusShortname: does-not-exist
 enableEmoji: true
 
 # Custom parameters
-#params:
-  # Github Repo URL. This is used to add "Improve This Page" button
-  #gitRepo: https://github.com/hossainemruz/toha-example-site
+params:
+  GitRepo: https://github.com/trepix/https://trepix.github.io/
+  
