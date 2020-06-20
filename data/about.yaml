@@ -1,9 +1,9 @@
 # your designation
-designation: Software crapman developer
+designation: Software Crafter
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Lifull Connect
+  url: https://www.lifullconnect.com/
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
@@ -14,9 +14,9 @@ summary: 'I am a passionate software engineer with x years of working experience
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "pau.trepat.segura@gmail.com"
+# - name: Email
+#   icon: "fas fa-envelope"
+#   url: "somemail@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
