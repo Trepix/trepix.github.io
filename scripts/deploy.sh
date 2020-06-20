@@ -25,5 +25,5 @@ echo "Updating gh-pages branch"
 hash=`git log --pretty=format:'%h' -n 1`
 cd public && git add --all && git commit -m "[${hash}] Automatic publish"
 
-#echo "Pushing to github"
-#git push --all
+# echo "Pushing to github"
+# git push

@@ -13,9 +13,9 @@ build: ## Build the site locally
 		--volume="$(PWD):/src" \
 		$(HUGO_IMAGE):$(HUGO_VERSION)
 
-.PHONY: publish 
-publish: ## Build the site and deploy it on github
-	./scripts/publish.sh
+.PHONY: deploy 
+deploy: ## Build the site and deploy it on github
+	./scripts/deploy.sh
 
 .PHONY: start-server 
 start-server: ## Start hugo server
