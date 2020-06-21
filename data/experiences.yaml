@@ -28,11 +28,20 @@ experiences:
       - Write lots of example codes.
       - Read lots of examples.
       - See lots of example videos.
+    projects:
+      - 
+        designation: Engineering Internship
+        start: Oct 2014
+        end: Jan 2016
+        responsibilities:
+          - Develop the mobile apps (Bynapp and Gerapp) using Apache Phonegap
+          - Develop the API REST (till [2n level](https://martinfowler.com/articles/richardsonMaturityModel.html)) using Laravel
+          - Deploy mobile apps and the backend
+          - Share knowledge through internal team trainning sessions
 
   - designation: Engineering Internship
     company:
       name: inLab FIB
-      url: "https://inlab.fib.upc.edu/en/persones/pau-trepat"
       location: Barcelona
       overview: "It was my first contact with ideas that nowadays I consider essential for software development. Agile practices and values; techniques such as TDD and continuous integration; and a shallow understanding of what is value. 
       <br>
@@ -40,8 +49,7 @@ experiences:
     start: Oct 2014
     end: Jan 2016
     responsibilities:
-      - Develop the mobile apps Bynapp and Gerapp using Apache Phonegap
+      - Develop the mobile apps (Bynapp and Gerapp) using Apache Phonegap
       - Develop the API REST (till [2n level](https://martinfowler.com/articles/richardsonMaturityModel.html)) using Laravel
-      - Deploy the Android and iOS apps and the backend
+      - Participate in the whole life cycle. From Scrum planning to deploy the mobile apps and the backend
       - Share knowledge through internal team trainning sessions
- 
