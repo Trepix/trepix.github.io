@@ -29,15 +29,19 @@ experiences:
       - Read lots of examples.
       - See lots of example videos.
 
-  - designation: Intern
+  - designation: Engineering Internship
     company:
-      name: Intern Counting Company (ICC).
-      url: "https://www.intern.com"
-      location: Intern Land
-      overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineer.
-    start: Jun 2015
+      name: inLab FIB
+      url: "https://inlab.fib.upc.edu/en/persones/pau-trepat"
+      location: Barcelona
+      overview: "It was my first contact with things that nowadays I consider essential for software development. Agile practices and values; techniques such as TDD and continuous integration; and a shallow understanding of what is value. 
+      <br>
+      Also, we had to deal with our own technical debt that we generated at the early stages. Due to this experience, I started to take consciousness of technical debt and to learn about how to avoid, control or reduce it."
+    start: Oct 2014
     end: Jan 2016
     responsibilities:
-      - Count lost of interns.
-      - Count more interns.
-      - Count myself as intern.
+      - Develop the mobile apps Bynapp and Gerapp using Apache Phonegap
+      - Develop the API REST (till [2n level](https://martinfowler.com/articles/richardsonMaturityModel.html)) using Laravel
+      - Deploy of the apps and the backend
+      - Share knowledge through internal team trainning sessions
+ 
