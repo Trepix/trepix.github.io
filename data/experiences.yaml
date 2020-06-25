@@ -1,43 +1,84 @@
 # Your experiences
 experiences:
-  - designation: Software Engineer
+  - 
     company:
-      name: Example Co.
-      url: "https://www.example.com"
-      location: Dhaka Branch
-      # company overview
-      overview: Example Co. is a widely recognized company for cloud native development. It build tools for Kubernetes.
-    start: Nov 2017
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases and cluster's resource definition.
-      - My another responsibilities.
-      - My more responsibilities.
-
-  - designation: Software Engineer
-    company:
-      name: PreExample Co.
-      url: "https://www.preexample.com"
-      location: Nowhere
-      overview: PreExample Co. is gateway company to enter into Example co. So, nothing special here.
-    start: March 2016
-    end: May 2017
-    responsibilities:
-      - Write lots of example codes.
-      - Read lots of examples.
-      - See lots of example videos.
+      name: Lifull Connect
+      location: Barcelona
     projects:
-      - 
-        designation: Engineering Internship
-        start: Oct 2014
-        end: Jan 2016
+
+      -
+        designation: Software developer
+        start: Apr 2020
+        end: Present
         responsibilities:
-          - Develop the mobile apps (Bynapp and Gerapp) using Apache Phonegap
-          - Develop the API REST (till [2n level](https://martinfowler.com/articles/richardsonMaturityModel.html)) using Laravel
-          - Deploy mobile apps and the backend
-          - Share knowledge through internal team trainning sessions
+          - Develop new feautres and manteinence of Trovit's web and notifications ecosystem
+          - Apply patterns and techniques in order to control and strangle legacy platform
+
+      -
+        designation: Apprenticeship program responsible
+        start: Oct 2019
+        end: Apr 2020
+        responsibilities:
+          - Link with external providers and attend their needs and requests
+          - Recruit apprentices for the second edition (from contacting them to their's review) 
+          - Teach apprentices about TDD, SOLID, OOP, design patterns and principles, Java syntax
+          - Track their progress and help them to improve with reading recommendations or pair programming
+          - Design of two technical challenge to check what they've learned
+          - Since February I was working on a similar initiative related to big data profiles. Due to the COVID-19 context was canceled.
+
+      -
+        designation: Software developer
+        start: May 2019
+        end: Oct 2019
+        responsibilities:
+          - Sporadically support data-related business needs
+          - Develop new features and maintenance of Trovit's web and notifications ecosystem
+          - Explore ways to rewrite the current web such as apply the strangler pattern
+      -
+        designation: Data engineer
+        end: Jun 2018
+        start: Apr 2019
+        responsibilities:
+          - Dockerize tools to ease its usage to big data developers
+          - Rewrite, fix and develop new features of notifications pipeline (browser, apps and email)
+          - Develop a MVP to limit mail sending in order to protect it's value
+
+  - company:
+      name: Grupo Godó de Comunicación
+      location: Barcelona
+    projects:
+      -
+        designation: Data engineer
+        start: Jan 2017
+        end: Jun 2018
+        responsibilities:
+          - Business data analysis using Apache Spark and AWS.
+          - Design and build a (big) data platform to centralize and organize the company's data in order to extract information to made strategic decisions
+          - Design, plan and execute the phases of the data flow using AWS and Terraform
+          - Develop custom tools to ingest, filter and format data
+          - Business data analysis using Apache Spark (Java 8) on EMR, S3, DynamoDB, and RDS. Also, in some cases, we also used Athena and Glue.
+          - Spike and exploration of some technologies like Apache NiFi, Airflow, and Rhino
+      -
+        designation: Junior Software engineer
+        start: Mar 2016
+        end: Jan 2017
+        responsibilities:
+          - Backend development using Spring Framework
+          - Develop and deploy a real-time poll system
+          - Warm caches using Aspect Oriented Programming
+  
+  - designation: IT technician in Mobile World Congress
+    company:
+      name: Fira Barcelona
+      location: Mobile World Congress
+    start: Feb 2016
+    end: Feb 2016
+    responsibilities:
+      - Configuration of wired connections
+      - IT service on site
+      - "Resolution of critical issues (SLA: 2h)"
+      - Detection of unauthorized networks
+
 
   - designation: Engineering Internship
     company:
