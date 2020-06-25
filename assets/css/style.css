@@ -26,6 +26,10 @@ h5 {
   color: #1c2d41;
 }
 
+strong{
+  color: #1c2d41!important;
+}
+
 p {
   color: #3c4858;
 }
@@ -144,10 +148,6 @@ img.right{
   -webkit-transition: all 0.3s ease-out;
   transform: scale(1.2);
   -webkit-transform: scale(1.2);
-}
-
-.card-title {
-  font-weight: 600;
 }
 
 .card-body {

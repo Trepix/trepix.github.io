@@ -6,12 +6,12 @@
   margin-top: 1.5rem !important;
 }
 
-.text-muted {
-  color: #e5e9f2;
-}
-
 .experiences ul {
   padding-left: 1rem;
+}
+
+.experiences .projects {
+  padding-left: 2rem;
 }
 
 .experiences ul > li {
@@ -19,8 +19,17 @@
   color: #3c4858;
 }
 
-.experience-entry-heading h5 {
-  font-weight: 600;
+.experiences h5 {
+  margin-bottom: 0.2rem;
+}
+
+.projects > h6 {
+  margin-bottom: 0.2rem;
+}
+
+.projects > .text-muted {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
 }
 
 .circle {
@@ -120,4 +129,52 @@
 /* Small devices (landscape phones, 576px and up) */
 
 @media only screen and (max-width: 576px) {
+  .experiences .projects {
+    padding-left: 0;
+  }
+
+  .projects {
+    font-size: 0.95em;
+    margin-bottom: 0.5rem;
+  }
+}
+
+
+/* iPhoneX, iPhone 6,7,8 */
+@media only screen and (max-width: 375px) {
+  .top-left {
+    left: -52%;
+    top: -50%;
+  }
+  
+  .top-right {
+    left: 52%;
+    top: -50%;
+  }
+}
+
+/* Galaxy S5, Moto G4 */
+@media only screen and (max-width: 360px) {
+  .top-left {
+    left: -56%;
+    top: -50%;
+  }
+  
+  .top-right {
+    left: 56%;
+    top: -50%;
+  }
+}
+
+/* iPhone 5 or before */
+@media only screen and (max-width: 320px) {
+  .top-left {
+    left: -62%;
+    top: -50%;
+  }
+  
+  .top-right {
+    left: 62%;
+    top: -50%;
+  }
 }
