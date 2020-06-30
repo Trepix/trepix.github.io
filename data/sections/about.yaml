@@ -1,9 +1,16 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
 # your designation
 designation: Software Crafter
 # your company information
 company:
   name: Lifull Connect
-  url: https://www.lifullconnect.com/
+  #url: https://www.lifullconnect.com/
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
