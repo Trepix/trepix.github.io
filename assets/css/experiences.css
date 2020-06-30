@@ -15,7 +15,7 @@
   color: #3c4858;
 }
 
-.experiences h5 {
+#experiences h5 {
   margin-bottom: 0.2rem;
 }
 
@@ -125,7 +125,7 @@
 /* Small devices (landscape phones, 576px and up) */
 
 @media only screen and (max-width: 576px) {
-  .experiences .projects {
+  #experiences .projects {
     padding-left: 0;
   }
 
@@ -135,13 +135,10 @@
   }
 
   .circle {
-    padding: 3px 10px; 
-    border-radius: 50%;
-    background-color: #248aaa;
-    color: #f9fafc;
-    max-height: 30px;
-    z-index: 2;
+    padding: 8px 15px;
+    max-height: 40px;
   }
+
 }
 
 
