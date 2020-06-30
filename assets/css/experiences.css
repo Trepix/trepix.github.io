@@ -1,20 +1,16 @@
-.experiences {
+#experiences {
   padding-bottom: 1rem;
 }
 
-.experiences .timeline {
+#experiences .timeline {
   margin-top: 1.5rem !important;
 }
 
-.experiences ul {
+#experiences ul {
   padding-left: 1rem;
 }
 
-.experiences .projects {
-  padding-left: 2rem;
-}
-
-.experiences ul > li {
+#experiences ul > li {
   margin-left: 0;
   color: #3c4858;
 }
@@ -137,6 +133,15 @@
     font-size: 0.95em;
     margin-bottom: 0.5rem;
   }
+
+  .circle {
+    padding: 3px 10px; 
+    border-radius: 50%;
+    background-color: #248aaa;
+    color: #f9fafc;
+    max-height: 30px;
+    z-index: 2;
+  }
 }
 
 
@@ -169,12 +174,12 @@
 /* iPhone 5 or before */
 @media only screen and (max-width: 320px) {
   .top-left {
-    left: -62%;
+    left: -64%;
     top: -50%;
   }
   
   .top-right {
-    left: 62%;
+    left: 64%;
     top: -50%;
   }
 }
