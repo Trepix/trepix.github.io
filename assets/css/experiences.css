@@ -34,7 +34,12 @@
   background-color: #248aaa;
   color: #f9fafc;
   max-height: 50px;
+  margin-left: 2px;
   z-index: 2;
+}
+
+.vertical-line-left-adjustment > .circle {
+  margin-right: 6px;
 }
 
 .timeline .vertical-line {
@@ -146,37 +151,57 @@
 @media only screen and (max-width: 375px) {
   .top-left {
     left: -52%;
-    top: -50%;
   }
   
   .top-right {
     left: 52%;
-    top: -50%;
   }
+
+  .bottom-right {
+    left: 52%;
+  }
+
+  .bottom-left {
+    left: -52%;
+  }
+
 }
 
 /* Galaxy S5, Moto G4 */
 @media only screen and (max-width: 360px) {
   .top-left {
     left: -56%;
-    top: -50%;
   }
   
   .top-right {
     left: 56%;
-    top: -50%;
   }
+
+  .bottom-right {
+    left: 56%;
+  }
+
+  .bottom-left {
+    left: -56%;
+  }
+
 }
 
 /* iPhone 5 or before */
 @media only screen and (max-width: 320px) {
   .top-left {
     left: -64%;
-    top: -50%;
   }
   
   .top-right {
     left: 64%;
-    top: -50%;
+  }
+
+  .bottom-right {
+    left: 64%;
+  }
+
+  .bottom-left {
+    left: -64%;
   }
 }
