@@ -19,11 +19,11 @@
   margin-bottom: 0.2rem;
 }
 
-.projects > h6 {
+.positions > h6 {
   margin-bottom: 0.2rem;
 }
 
-.projects > .text-muted {
+.positions > .text-muted {
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
 }
@@ -130,11 +130,7 @@
 /* Small devices (landscape phones, 576px and up) */
 
 @media only screen and (max-width: 576px) {
-  #experiences .projects {
-    padding-left: 0;
-  }
-
-  .projects {
+  .positions {
     font-size: 0.95em;
     margin-bottom: 0.5rem;
   }
@@ -143,9 +139,7 @@
     padding: 8px 15px;
     max-height: 40px;
   }
-
 }
-
 
 /* iPhoneX, iPhone 6,7,8 */
 @media only screen and (max-width: 375px) {
@@ -184,7 +178,6 @@
   .bottom-left {
     left: -56%;
   }
-
 }
 
 /* iPhone 5 or before */
