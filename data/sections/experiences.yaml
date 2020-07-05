@@ -43,8 +43,8 @@ experiences:
           - Explore ways to rewrite the current web such as apply the strangler pattern
       -
         designation: Data engineer
-        end: Jun 2018
-        start: Apr 2019
+        start: Jun 2018
+        end: Apr 2019
         responsibilities:
           - Dockerize tools to ease its usage to big data developers
           - Rewrite, fix and develop new features of notifications pipeline (browser, apps and email)
