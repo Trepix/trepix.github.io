@@ -11,7 +11,7 @@ experiences:
     company:
       name: Lifull Connect
       location: Barcelona
-    projects:
+    positions:
 
       -
         designation: Software developer
@@ -53,7 +53,7 @@ experiences:
   - company:
       name: Grupo Godó de Comunicación
       location: Barcelona
-    projects:
+    positions:
       -
         designation: Data engineer
         start: Jan 2017
