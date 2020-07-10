@@ -1,16 +1,16 @@
-#experiences {
+.experiences-section {
   padding-bottom: 1rem;
 }
 
-#experiences .timeline {
+.experiences-section .timeline {
   margin-top: 1.5rem !important;
 }
 
-#experiences ul {
+.experiences-section ul {
   padding-left: 1rem;
 }
 
-#experiences ul > li {
+.experiences-section ul > li {
   margin-left: 0;
   color: #3c4858;
 }
@@ -26,6 +26,10 @@
 .positions > .text-muted {
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
+}
+
+.experiences-section .designation{
+ font-weight: 600;
 }
 
 .circle {
