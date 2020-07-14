@@ -1,4 +1,4 @@
-baseURL: https://trepix.github.io
+baseURL: https://trepix.io
 languageCode: en-us
 title: "Trepix"
 theme: "toha"
@@ -13,20 +13,21 @@ markup:
 googleAnalytics: UA-111585454-1
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+disqusShortname: blog-trepix-io
 
 # Enable global emoji support
 enableEmoji: true
 
 # Custom parameters
 params:
-  GitRepo: https://github.com/trepix/https://trepix.github.io/
+  GitRepo: https://github.com/trepix/trepix.github.io/
 
   # background image of the landing page
   background: "images/background2.jpg"
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
+  #blogURL: https://blog.trepix.io
 
   # some information about you
   author:

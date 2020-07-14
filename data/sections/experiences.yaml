@@ -11,6 +11,7 @@ experiences:
     company:
       name: Lifull Connect
       location: Barcelona
+      logo_path: images/companies/lifull-connect.png
     positions:
 
       -
@@ -53,6 +54,7 @@ experiences:
   - company:
       name: Grupo Godó de Comunicación
       location: Barcelona
+      logo_path: images/companies/grupo-godo.png
     positions:
       -
         designation: Data engineer
@@ -73,24 +75,13 @@ experiences:
           - Backend development using Spring Framework
           - Develop and deploy a real-time poll system
           - Warm caches using Aspect Oriented Programming
-  
-  - designation: IT technician in Mobile World Congress
-    company:
-      name: Fira Barcelona
-      location: Mobile World Congress
-    start: Feb 2016
-    end: Feb 2016
-    responsibilities:
-      - Configuration of wired connections
-      - IT service on site
-      - "Resolution of critical issues (SLA: 2h)"
-      - Detection of unauthorized networks
 
 
   - designation: Engineering Internship
     company:
       name: inLab FIB
       location: Barcelona
+      logo_path: images/companies/inlab.png
       overview: "It was my first contact with ideas that nowadays I consider essential for software development. Agile practices and values; techniques such as TDD and continuous integration; and a shallow understanding of what is value. 
       <br>
       Also, we had to deal with the technical debt that we generated at the early stages. Due to this experience, I started to take consciousness of it and to learn about how to avoid, control or reduce it."
