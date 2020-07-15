@@ -1,9 +1,9 @@
 # section information
 section:
   name: Projects
-  enable: true
+  enable: false
   weight: 4
-  showOnNavbar: true
+  showOnNavbar: false
 
 # filter buttons
 buttons:

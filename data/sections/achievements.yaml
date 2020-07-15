@@ -1,9 +1,9 @@
 # section information
 section:
   name: Achievements
-  enable: true
+  enable: false
   weight: 6
-  showOnNavbar: true
+  showOnNavbar: false
   
 # Your achievements achievements
 achievements:
