@@ -17,6 +17,8 @@
         $('#navbar-toggler').removeClass('navbar-dark');
         $('#navbar-toggler').addClass('navbar-light');
 
+        $('#logo').css("display", "inline");
+        $('#logo-inverted').css("display", "none");
         if (!source.includes("assets/images/logo.png")) {
           logo.attr("src","assets/images/logo.png");
         }
@@ -27,9 +29,8 @@
         $('#navbar-toggler').removeClass('navbar-light');
         $('#navbar-toggler').addClass('navbar-dark');
 
-        if (!source.includes("assets/images/logo-inverted.png")) {
-          logo.attr("src","assets/images/logo-inverted.png");
-        }
+        $('#logo-inverted').css("display", "inline");
+        $('#logo').css("display", "none");
       }
     });
   });
