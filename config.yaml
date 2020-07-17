@@ -23,7 +23,7 @@ params:
   GitRepo: https://github.com/trepix/trepix.github.io/
 
   # background image of the landing page
-  background: "images/background2.jpg"
+  background: "images/background20.svg"
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
