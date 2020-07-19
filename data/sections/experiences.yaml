@@ -11,7 +11,7 @@ experiences:
     company:
       name: Lifull Connect
       location: Barcelona
-      logo_path: images/companies/lifull-connect.png
+      logo_path: /static/images/companies/lifull-connect.svg
     positions:
 
       -
@@ -54,7 +54,7 @@ experiences:
   - company:
       name: Grupo Godó de Comunicación
       location: Barcelona
-      logo_path: images/companies/grupo-godo.png
+      logo_path: /static/images/companies/grupo-godo.svg
     positions:
       -
         designation: Data engineer
@@ -81,7 +81,7 @@ experiences:
     company:
       name: inLab FIB
       location: Barcelona
-      logo_path: images/companies/inlab.png
+      logo_path: /static/images/companies/inlab.svg
       overview: "It was my first contact with ideas that nowadays I consider essential for software development. Agile practices and values; techniques such as TDD and continuous integration; and a shallow understanding of what is value. 
       <br>
       Also, we had to deal with the technical debt that we generated at the early stages. Due to this experience, I started to take consciousness of it and to learn about how to avoid, control or reduce it."
