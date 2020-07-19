@@ -1,7 +1,7 @@
 baseURL: https://trepix.io
 languageCode: en-us
 title: "Trepix"
-theme: "toha"
+theme: "trepix"
 
 # Allow raw html in markdown file
 markup:
