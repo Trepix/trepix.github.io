@@ -4,14 +4,31 @@
   
   <url>
     <loc>https://trepix.io/categories/</loc>
+    <lastmod>2020-06-08T06:15:35+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trepix.io/tags/</loc>
+    <loc>https://trepix.io/posts/lore-ipsum/</loc>
+    <lastmod>2020-06-08T06:15:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/categories/lore-ipsum/</loc>
+    <lastmod>2020-06-08T06:15:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/posts/</loc>
+    <lastmod>2020-06-08T06:15:35+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://trepix.io/</loc>
+    <lastmod>2020-06-08T06:15:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/tags/</loc>
   </url>
   
 </urlset>
