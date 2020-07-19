@@ -20,7 +20,7 @@ enableEmoji: true
 
 # Custom parameters
 params:
-  GitRepo: https://github.com/trepix/trepix.github.io/
+  GitRepo: https://github.com/trepix/trepix.github.io
 
   # background image of the landing page
   background: "images/background20.svg"
