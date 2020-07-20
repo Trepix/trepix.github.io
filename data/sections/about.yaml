@@ -26,19 +26,19 @@ socialLinks:
 #   url: "somemail@gmail.com"
 
 - name: Github
-  icon: "fab fa-github"
+  icon: "icon-github-circled"
   url: "https://github.com/Trepix"
 
 - name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "https://stackoverflow.com/users/4587023/pau-trepat"
+  icon: "icon-stackoverflow"
+  url: "https://stackoverflow.com/users/2151432/pau-trepat"
 
 - name: LinkedIn
-  icon: "fab fa-linkedin"
+  icon: "icon-linkedin-squared"
   url: "https://www.linkedin.com/in/pau-trepat-segura/"
 
 - name: Twitter
-  icon: "fab fa-twitter"
+  icon: "icon-twitter"
   url: "https://twitter.com/Trepixxx"
 
 # your soft skills
