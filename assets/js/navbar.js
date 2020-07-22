@@ -3,10 +3,6 @@
 (function ($) {
   jQuery(document).ready(function () {
 
-    // change navbar style on scroll
-    // ==================================================
-    // When the user scrolls down 80px from the top of the document, resize the navbar's padding and the logo's font size
-    // $.onscroll = function() {scrollFunction()};
     $(document).scroll(function () {
       const logo = $('#logo');
       const source = logo.attr("src");
