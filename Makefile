@@ -10,19 +10,10 @@ build: ## Build the site
 		--volume="$(PWD):/src" \
 		klakegg/hugo:0.72.0
 
-.PHONY: build-assets
-build-assets: ## Build the assets
-	docker run -ti --rm \
-		--volume="$(PWD):/src" \
-		-v /src/node_modules \
-		--name webpack \
-		trepix/web-assets-builder:latest \
-		build
-
 .PHONY: deploy 
 deploy: ## Build the site and deploy it on github
 	./scripts/deploy.sh
 
 .PHONY: start-server 
-start-server: ## Start hugo server
-	docker-compose -f infrastructure/docker-compose.yml up
+start-server: ## Start containers to up website
+	docker-compose up

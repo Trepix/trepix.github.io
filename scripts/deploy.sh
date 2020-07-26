@@ -19,6 +19,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
+make -C themes/trepix build-assets
 make build
 
 echo "Updating MASTER branch"
@@ -26,4 +27,4 @@ hash=`git log --pretty=format:'%h' -n 1`
 cd public && git add --all && git commit -m "[${hash}] Automatic publish"
 
 # echo "Pushing to github"
-git push
+#git push

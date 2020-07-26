@@ -4,14 +4,14 @@ services:
   webpack:
     image: "trepix/web-assets-builder:latest"
     volumes:
-      - "..:/src"
+      - "./themes/trepix/:/src"
       - "/src/node_modules"
     command: start
 
   hugo:
     image: klakegg/hugo:0.72.0
     volumes:
-      - "..:/src"
+      - ".:/src"
     depends_on:
       - webpack
     ports:
