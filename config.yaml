@@ -32,11 +32,10 @@ params:
   # some information about you
   author:
     name: "Pau Trepat"
-    image: "images/avatar2.gif"
+    image: "images/avatar3.png"
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "pau.trepat.segura@gmail.com"
-      #phone: "+0123456789"
 
     # a summary of what you do
     summary:
