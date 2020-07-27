@@ -184,6 +184,14 @@
     width: auto;
     margin-right: 15px;
   }
+
+  .navbar-toggler:focus {
+    outline:none;
+  }
+  
+  .navbar-toggler::-moz-focus-inner {
+      border: 0;
+  }
 }
 
 /* Small devices (landscape phones, 576px and up) */

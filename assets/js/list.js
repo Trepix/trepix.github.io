@@ -94,7 +94,7 @@ var isMobile = false, isTablet = false, isLaptop = false;
 })(jQuery);
 
 // toggle sidebar on click
-function toggleSidebar() {
+window.toggleSidebar = function() {
   document.getElementById("sidebar").classList.toggle("hide");
   document.getElementById("content").classList.toggle("overley");
 
