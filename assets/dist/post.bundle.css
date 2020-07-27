@@ -85,28 +85,11 @@ table {
   padding: 0.1rem;
 }
 
-table tr {
-  height: 40px !important;
-}
-
 table th,
 td {
   padding: 0.5rem;
   border-left: 1px solid #8392a5;
   border-bottom: 1px solid #8392a5;
-}
-
-table thead tr {
-  background: #248aaa;
-  color: #e5e9f2;
-}
-
-tbody tr:nth-child(odd) {
-  background-color: #e5e9f2;
-}
-
-tbody tr:hover {
-  background: #c0ccda;
 }
 
 figure {
