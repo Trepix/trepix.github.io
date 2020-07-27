@@ -11,7 +11,7 @@
   width: 100%;
   padding: 0;
   margin: 0;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
   filter: blur(3px);
