@@ -450,19 +450,7 @@ img.right{
   .top-navbar .container {
     margin-top: auto;
   }
-}
 
-@media (max-width: 1200px) {
-}
-
-/*  Large devices (desktops, 992px and up) */
-
-@media (max-width: 992px) {
-}
-
-/* Medium devices (tablets, 768px and up) */
-
-@media only screen and (max-width: 768px) {
   .top-navbar .container {
     max-width: 100%;
     padding: 0;
@@ -511,6 +499,20 @@ img.right{
   .navbar-toggler::-moz-focus-inner {
       border: 0;
   }
+}
+
+@media (max-width: 1200px) {
+}
+
+/*  Large devices (desktops, 992px and up) */
+
+@media (max-width: 992px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media only screen and (max-width: 768px) {
+  
 }
 
 /* Small devices (landscape phones, 576px and up) */
