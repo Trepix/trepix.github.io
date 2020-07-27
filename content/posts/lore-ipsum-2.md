@@ -4,7 +4,7 @@ date: 2020-07-08T06:15:35+06:00
 hero: /images/posts/lore-ipsum.svg
 author:
   name: Pau Trepat
-  image: /images/avatar2.gif
+  image: "/images/avatar.jpg"
 categories:
 - lore-ipsum
 ---
