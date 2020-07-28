@@ -354,15 +354,26 @@ var projectCards;
       showAchievements();
     };
 
-    if (isMobile) {
+    function bindOnClickExperienceEntry() {
       $(".position").click(function() {
-        let responsabilities = $(this).find('.responsabilities');
+        const responsabilities = $(this).find('.responsabilities');
+        const arrow = $(this).find('.arrow')
         if (responsabilities.is(":visible")) {
-          responsabilities.slideUp( "slow");
+          responsabilities.slideUp("slow");
+          arrow.removeClass("icon-up-open").addClass("icon-down-open");
+        } 
+        else {
+          responsabilities.slideDown("slow");
+          arrow.removeClass("icon-down-open").addClass("icon-up-open");
         }
-        else responsabilities.slideDown("slow");
       });
     }
+
+    if (isMobile) {
+      bindOnClickExperienceEntry();
+    }
+
+    
     
   });
 

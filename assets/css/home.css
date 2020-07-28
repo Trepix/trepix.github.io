@@ -45,7 +45,7 @@
   display: none;
 }
 
-.arrow {
+#home .arrow {
   position: absolute;
   color: #f9fafc;
   font-size: 1.25rem;

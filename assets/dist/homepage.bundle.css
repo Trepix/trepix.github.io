@@ -605,6 +605,9 @@
   content: none;
 }
 
+.subheader .arrow {
+  display: none;
+}
 
 /* ============= Device specific fixes ======= */
 
@@ -667,6 +670,17 @@
   
   .company-period {
     color: #808080 !important;
+  }
+
+  .subheader {
+    display: flex;
+  }
+
+  .subheader .arrow {
+    display: block;
+    margin-left: auto;
+    margin-top: -0.35%;
+    color: darkgrey;
   }
 }
 
@@ -731,7 +745,7 @@
   display: none;
 }
 
-.arrow {
+#home .arrow {
   position: absolute;
   color: #f9fafc;
   font-size: 1.25rem;
