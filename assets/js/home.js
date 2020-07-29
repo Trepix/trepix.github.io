@@ -8,7 +8,7 @@ var projectCards;
     var isMobile = false, isTablet = false, isLaptop = false;
 
     function detectDevice() {
-      if (window.innerWidth <= 425) {
+      if (window.innerWidth <= 576) {
         isMobile = true;
         isTablet = false;
         isLaptop = false;
@@ -369,8 +369,16 @@ var projectCards;
       });
     }
 
+    function bindOnClickSeeMore() {
+      $(".see-more").click(function() {
+        $(this).parent(".truncated").removeClass("truncated")
+        $(this).hide();    
+      });
+    }
+
     if (isMobile) {
       bindOnClickExperienceEntry();
+      bindOnClickSeeMore();
     }
 
     
