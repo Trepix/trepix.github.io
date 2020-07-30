@@ -35,7 +35,9 @@ params:
     image: "/images/avatar.jpg"
     # give your some contact information. they will be used in the footer
     contactInfo:
-      email: "pau.trepat.segura@gmail.com"
+      email: 
+        value: "pau.trepat.segura@gmail.com"
+        icon: "icon-mail-alt"
 
     # a summary of what you do
     summary:
