@@ -5,8 +5,6 @@ hero: /images/posts/lore-ipsum.svg
 author:
   name: Pau Trepat
   image: "/images/avatar.jpg"
-categories:
-- lore-ipsum
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non mi ipsum. Aenean et rutrum ante. In rhoncus ultrices elit. Aliquam id maximus neque. Etiam erat quam, consequat id posuere non, semper sit amet ipsum. Pellentesque vel eros elit. In hac habitasse platea dictumst. Vestibulum faucibus nisi nisl, nec faucibus est eleifend blandit. Nulla tempor mauris vel metus fringilla lobortis. Vestibulum hendrerit, tellus eget placerat finibus, lectus ante iaculis orci, eget semper leo metus eget nisi. Ut imperdiet ac ligula a pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur eros nisi, cursus sed efficitur a, dignissim in neque. Nulla interdum purus dui, nec luctus eros pellentesque in. In et aliquam lacus.
