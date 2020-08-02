@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://trepix.io/categories/</loc>
-    <lastmod>2020-07-08T06:15:35+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://trepix.io/posts/lore-ipsum-2/</loc>
-    <lastmod>2020-07-08T06:15:35+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trepix.io/categories/lore-ipsum/</loc>
     <lastmod>2020-07-08T06:15:35+06:00</lastmod>
   </url>
   
@@ -25,6 +15,10 @@
   <url>
     <loc>https://trepix.io/</loc>
     <lastmod>2020-07-08T06:15:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/categories/</loc>
   </url>
   
   <url>

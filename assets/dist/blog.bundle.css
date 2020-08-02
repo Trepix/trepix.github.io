@@ -135,8 +135,9 @@
 
 .tree i {
   color: #3c4858;
-  font-size: 12px;
+  font-size: 14px;
   margin-right: 5px;
+  margin-left: -2px;
 }
 
 .tree .shift-right {

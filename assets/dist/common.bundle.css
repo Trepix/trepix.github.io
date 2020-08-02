@@ -452,6 +452,13 @@ img.right{
 /* Extra large devices (large desktops, 1200px and up) */
 
 @media (max-width: 1400px) {
+}
+
+@media (max-width: 1200px) {
+}
+
+
+@media (max-width: 1024px) {
   .top-navbar .container {
     margin-top: auto;
   }
@@ -496,17 +503,6 @@ img.right{
     width: auto;
     margin-right: 15px;
   }
-
-  .navbar-toggler:focus {
-    outline:none;
-  }
-  
-  .navbar-toggler::-moz-focus-inner {
-      border: 0;
-  }
-}
-
-@media (max-width: 1200px) {
 }
 
 /*  Large devices (desktops, 992px and up) */
@@ -517,7 +513,6 @@ img.right{
 /* Medium devices (tablets, 768px and up) */
 
 @media only screen and (max-width: 768px) {
-  
 }
 
 /* Small devices (landscape phones, 576px and up) */
