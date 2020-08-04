@@ -22,6 +22,7 @@
   margin: 0 auto;
   box-shadow: none;
   position: relative;
+  /* display: table-cell; */
 }
 
 .circular-progress:after {
@@ -79,18 +80,27 @@
   animation: circular-loading-1 1.8s linear forwards;
 }
 
-.circular-progress .circular-progress-value {
+.circular-progress .circular-progress-background {
   width: 90%;
   height: 90%;
   border-radius: 50%;
   background: #3c4858;
-  font-size: 1rem;
-  color: #f9fafc;
   line-height: 135px;
-  text-align: center;
   position: absolute;
   top: 5%;
   left: 5%;
+}
+
+.circular-progress > .circular-progress-value {
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 80%; 
+  left: 10%;
+  line-height: 1.5em;
 }
 
 .circular-progress.blue .circular-progress-bar {
@@ -160,6 +170,7 @@
 .circular-progress-percentage-100 {
   animation: circular-loading-100 1.8s linear forwards 1.8s;
 }
+
 
 @keyframes circular-loading-50 {
   0% {
@@ -702,7 +713,7 @@
     bottom: 0.3em;
     right: 1em;
     font-weight: 600;
-    color: #585858;
+    color: #248aaa;
   }
 }
 
