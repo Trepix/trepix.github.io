@@ -1,6 +1,7 @@
 body {
   background-color: #e5e9f2;
 }
+
 .read-area {
   background-color: #f9fafc;
 }
@@ -216,6 +217,7 @@ mark {
 
 .btn-improve-page{
   text-align: right;
+  margin-right: 1em;
 }
 
 @media only screen and (max-width: 768px) {
