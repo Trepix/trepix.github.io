@@ -1,7 +1,7 @@
 ---
 title: "Lore Ipsum 2"
 date: 2020-07-08T06:15:35+06:00
-hero: /images/posts/lore-ipsum.svg
+hero: /images/blog/lore-ipsum.svg
 author:
   name: Pau Trepat
   image: "/images/avatar.jpg"
