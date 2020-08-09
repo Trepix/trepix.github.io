@@ -10,24 +10,37 @@ section:
 skills:
 - name: Cloud Computing
   svg_icon: "/static/images/skills/cloud.svg"
-  summary: "Worked with most of the major clouds such as GCP and AWS"
+  summary: "I've worked mainly on AWS using its services for big data purposes. Also, I've used some GCP tools but just to integrate with them."
 
 - name: Docker
   svg_icon: "/static/images/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container."
+  summary: "Mostly I use docker to reproduce local environments and to avoid that have to install build tools on every machine."
 
 - name: Linux
   svg_icon: "/static/images/skills/linux.svg"
-  summary: "Using as main operating system. Capable of writing bash/shell scripts."
+  summary: "Main operating system for development. Capable of writing bash/shell scripts to automate tasks."
 
 - name: Git
   svg_icon: "/static/images/skills/git.svg"
-  summary: "Experienced with git based development. Mostly, use Github. Also have experience in working with GitLab."
+  summary: "Experienced in git based development using Github (for personal projects) and Gitlab (for work). I prepared and trainned workmates to migrate from Subversion to Git."
 
 - name: Java
   svg_icon: "/static/images/skills/java.svg"
-  summary: "Using as main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "The main language for professional and own development. Capable of writing scalable, testable, and maintainable programs. I worked with most popular frameworks to apply IoC and develop an HTTP API."
+
+- name: Scala
+  svg_icon: "/static/images/skills/scala.svg"
+  summary: "I've learned this language two years ago to write Spark software and was my first heavy contact with functional programming. Currently learning it yet."
 
 - name: PHP
   svg_icon: "/static/images/skills/php.svg"
-  summary: "Using as main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "I've used this language for some professional projects when the organization required help in them. I can write testable and maintainable programs."
+
+- name: TDD
+  svg_icon: "/static/images/skills/tdd.svg"
+  summary: "Since I discovered it in 2014 (and had a mind blown) I've tried to apply and refine it at every opportunity along with refactoring."
+
+- name: Software Design
+  svg_icon: "/static/images/skills/design.svg"
+  summary: "I read about OOP, software patterns and architecture. I get the best learnings by doing and iterating, like design itself."
+

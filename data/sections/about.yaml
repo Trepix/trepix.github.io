@@ -48,12 +48,12 @@ softSkills:
 - name: Agile Development
   percentage: 85
   color: blue
-- name: Communication
-  percentage: 90
+- name: Team work
+  percentage: 80
   color: yellow
 - name: Empathy
-  percentage: 85
+  percentage: 90
   color: pink
 - name: Critical thinking
-  percentage: 90
+  percentage: 95
   color: green
