@@ -2,14 +2,14 @@
 <rss version="2.0"
     xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Trepix</title>
-        <link>https://trepix.io/</link>
-        <description>Recent content on Trepix</description>
+        <title>Blog on Trepix</title>
+        <link>https://trepix.io/blog/</link>
+        <description>Recent content in Blog on Trepix</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 08 Jul 2020 06:15:35 +0600</lastBuildDate>
         
-            <atom:link href="https://trepix.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://trepix.io/blog/index.xml" rel="self" type="application/rss+xml" />
         
         
         
