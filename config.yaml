@@ -29,6 +29,8 @@ params:
   enableBlogPost: true
   #blogURL: https://blog.trepix.io
 
+  newsletter: https://tinyletter.com/trepix
+
   # some information about you
   author:
     name: "Pau Trepat"
