@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.woff2?4716921') format('woff2'),
-         url('../font/fontello.woff?4716921') format('woff');
+    src: url('../font/fontello.woff2?68684104') format('woff2'),
+         url('../font/fontello.woff?68684104') format('woff');
     font-weight: normal;
     font-style: swap;
   }
@@ -52,9 +52,11 @@
   .icon-dot-3:before { content: '\e808'; }
   .icon-twitter:before { content: '\f099'; }
   .icon-github-circled:before { content: '\f09b'; }
+  .icon-rss:before { content: '\f09e'; }
   .icon-mail-alt:before { content: '\f0e0'; }
   .icon-fork:before { content: '\f126'; }
   .icon-angle-circled-left:before { content: '\f137'; }
   .icon-angle-circled-right:before { content: '\f138'; }
+  .icon-rss-squared:before { content: '\f143'; }
   .icon-stackoverflow:before { content: '\f16c'; }
   .icon-linkedin-squared:before { content: '\f30c'; }

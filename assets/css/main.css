@@ -220,6 +220,10 @@ img.right{
   width: 32px;
 }
 
+.form-group > small {
+  margin-bottom: 16px;
+}
+
 /* --- FOOTER END ---- */
 
 /* ============= Device specific fixes ======= */

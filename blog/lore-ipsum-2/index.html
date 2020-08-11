@@ -207,21 +207,17 @@ if (!doNotTrack) {
       <div class="col-md-4 col-sm-12">
         
         <p>Stay up to date with email notification</p>
-        <form>
-          <div class="form-group">
-            <input
-              type="email"
-              class="form-control"
-              id="exampleInputEmail1"
-              aria-describedby="emailHelp"
-              placeholder="Enter email"
-            />
-            <small id="emailHelp" class="form-text text-muted"
-              >We'll never share your email with anyone else.</small
-            >
-          </div>
-          <button type="submit" class="btn btn-info">Submit</button>
+        <form class="form-group"
+              action="https://tinyletter.com/trepix" 
+              method="post" 
+              target="popupwindow" 
+              onsubmit="window.open('https:\/\/tinyletter.com\/trepix', 'popupwindow');return true">
+              <input type="text" name="email" class="form-control" placeholder="Enter email" id="tlemail" />
+              <input type="hidden" value="1" name="embed"/>
+              <small class="form-text text-muted">We'll never share your email with anyone else.</small>
+              <button type="submit" class="btn btn-info" value="Subscribe">Subscribe</button>
         </form>
+        
       </div>
     </div>
   </div>
