@@ -1,3 +1,3 @@
 [submodule "themes/trepix"]
 	path = themes/trepix
-	url = git@github.com:Trepix/toha.git
+	url = https://github.com/Trepix/toha.git

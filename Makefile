@@ -6,7 +6,7 @@ help: ## Display this help
 
 .PHONY: build 
 build: ## Build the site
-	docker run --rm -it \
+	docker run --rm \
 		--volume="$(PWD):/src" \
 		klakegg/hugo:0.72.0
 
