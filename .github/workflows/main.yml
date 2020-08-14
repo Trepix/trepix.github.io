@@ -6,6 +6,8 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Update theme
         run: git submodule update --init --recursive
@@ -14,9 +16,6 @@ jobs:
         env:
           TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
-          git remote rm origin && \
-          git remote add origin https://github.com/Trepix/trepix.github.io && \
-          git fetch
           git config user.email "pau.trepat.segura@gmail.com"
           git config user.name "Pau Trepat Segura"
           make deploy
