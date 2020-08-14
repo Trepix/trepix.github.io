@@ -1,4 +1,4 @@
-name: CI
+name: CI / CD^2
 on: push
 jobs:
   deploy:
@@ -12,10 +12,12 @@ jobs:
       - name: Update theme
         run: git submodule update --init --recursive
 
-      - name: Deploy
-        env:
-          TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+      - name: Configure credentials
         run: |
           git config user.email "pau.trepat.segura@gmail.com"
           git config user.name "Pau Trepat Segura"
-          make deploy
+
+      - name: Deploy
+        env:
+          TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: make deploy
