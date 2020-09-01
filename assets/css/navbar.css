@@ -92,7 +92,7 @@
 
 .navbar-collapse.show .navbar-nav .active,
 .navbar-collapse.show .navbar-nav a:hover {
-  color: #2098d1;
+  color: #f9fafc;
 }
 
 #top-navbar-divider {
@@ -138,6 +138,17 @@
 
 
 @media (max-width: 1024px) {
+
+}
+
+/*  Large devices (desktops, 992px and up) */
+
+@media (max-width: 992px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media only screen and (max-width: 768px) {
   .top-navbar .container {
     margin-top: auto;
   }
@@ -152,6 +163,11 @@
     color: #2098d1;
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
+  }
+
+  .navbar-collapse.show .navbar-nav .active,
+  .navbar-collapse.show .navbar-nav a:hover {
+    color: #2098d1;
   }
 
   .final-navbar .navbar-nav .active,
@@ -182,16 +198,6 @@
     width: auto;
     margin-right: 15px;
   }
-}
-
-/*  Large devices (desktops, 992px and up) */
-
-@media (max-width: 992px) {
-}
-
-/* Medium devices (tablets, 768px and up) */
-
-@media only screen and (max-width: 768px) {
 }
 
 /* Small devices (landscape phones, 576px and up) */
