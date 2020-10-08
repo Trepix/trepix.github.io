@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Lore Ipsum 2</title>
+    <title>Books</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -33,14 +33,8 @@
 <link rel="icon" type="image/png" href="/assets/images/logo-inverted.png" />
 
     
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
-/>
-<link href="/assets/dist/post.bundle.css" rel="stylesheet" rel="preload" as="style">
-<noscript><link rel="stylesheet" href="/assets/dist/post.bundle.css"></noscript>
-
-<link rel="preload" href="/images/avatar.jpg" as="image">
+    <link href="/assets/dist/blog.bundle.css" rel="stylesheet" rel="preload" as="style">
+    <noscript><link rel="stylesheet" href="/assets/dist/blog.bundle.css"></noscript>
 
 
     
@@ -66,9 +60,9 @@ if (!doNotTrack) {
       
     <nav class="navbar navbar-expand-lg top-navbar final-navbar shadow">
     <div class="container">
-      <a class="navbar-brand" href="/blog">
+      <a class="navbar-brand" href="https://trepix.io">
         <img src="/assets/images/logo.png">Trepix</a>
-      <button class="navbar-toggler navbar-light" type="button" >
+      <button class="navbar-toggler navbar-light" type="button" onclick="toggleSidebar()">
         <span class="navbar-toggler-icon"></span>
       </button>
 
@@ -83,87 +77,50 @@ if (!doNotTrack) {
 
       
       
-<div class="container p-0 read-area">
-  
-  <div class="hero-area col-sm-12" style='background-image: url(https://trepix.io/assets/images/default-hero.jpg);'>
+<div class="sidebar" id="sidebar">
+    <div class="sidebar-tree">
+      <input type="text" name="filtr-search" value="" placeholder="Search" data-search="" id="search-box" />
+      <ul class="tree" id="tree">
+        <li id="list-heading"><a href="#" data-filter="all">Books</a></li>
+        <div class="subtree">
+            
+
+        </div>
+      </ul>
+    </div>
   </div>
-
-  
-  <div class="page-content">
-    <div class="author-profile ml-auto align-self-lg-center">
-      <img class="rounded-circle" src='/assets/images/default-avatar.png'/>
-      <h5 class="author-name">John Doe</h5>
-      <p>July 8, 2020</p>
-    </div>
-
-    <div class="title">
-      <h1>Lore Ipsum 2</h1>
-    </div>
-
-    <div class="post-content" id="post-content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non mi ipsum. Aenean et rutrum ante. In rhoncus ultrices elit. Aliquam id maximus neque. Etiam erat quam, consequat id posuere non, semper sit amet ipsum. Pellentesque vel eros elit. In hac habitasse platea dictumst. Vestibulum faucibus nisi nisl, nec faucibus est eleifend blandit. Nulla tempor mauris vel metus fringilla lobortis. Vestibulum hendrerit, tellus eget placerat finibus, lectus ante iaculis orci, eget semper leo metus eget nisi. Ut imperdiet ac ligula a pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur eros nisi, cursus sed efficitur a, dignissim in neque. Nulla interdum purus dui, nec luctus eros pellentesque in. In et aliquam lacus.</p>
-<p>Sed laoreet augue lorem, ut pretium libero aliquam sed. Morbi rhoncus egestas velit non volutpat. Donec vitae eros at sapien fringilla aliquam vitae non dolor. Integer quis interdum elit. Aenean imperdiet consequat porta. Quisque sed dui nisl. Pellentesque eu tempus purus.</p>
-<p>Vestibulum lobortis, ligula vel ornare convallis, dolor enim scelerisque nisi, at ultricies tellus tellus sed velit. Mauris porta interdum arcu vel interdum. Etiam vitae risus at nisi sodales ornare a eget neque. Proin aliquam ut velit ut varius. Integer tortor sapien, dictum eu metus lobortis, hendrerit hendrerit ipsum. Nulla non mattis arcu. Integer ex lectus, vulputate id arcu sit amet, consequat sollicitudin lorem. Duis mollis ante at vulputate consectetur. Vivamus vel commodo metus. Etiam dictum massa at mi porttitor dignissim.</p>
-<p>Morbi consequat eu diam id euismod. Pellentesque in urna lectus. Aliquam interdum quis ante vel pretium. Vestibulum bibendum sapien urna, non bibendum orci condimentum eget. Ut efficitur ultrices arcu, ac volutpat arcu egestas vel. Morbi et condimentum lacus. Donec rhoncus ipsum ac lorem fringilla tempus. Suspendisse erat nulla, dapibus id tempus sollicitudin, commodo ut dui. Maecenas luctus eu neque nec lacinia. Vivamus sed sapien ut ex tincidunt congue. Vestibulum maximus sem quis venenatis dictum. Vivamus lectus ipsum, vulputate sit amet blandit id, dignissim sit amet velit.</p>
-<p>Mauris convallis, massa a suscipit porttitor, neque lectus imperdiet enim, at ullamcorper purus sapien at nisl. Aliquam id sapien non arcu tempor lobortis. Proin at varius tellus. Vivamus lacus diam, blandit eget sagittis ut, hendrerit consectetur quam. Morbi laoreet accumsan diam faucibus maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam massa neque, lobortis sed dapibus et, facilisis et enim. Duis pharetra convallis sem in iaculis. Aenean sollicitudin cursus justo, ac hendrerit dolor facilisis vitae. Maecenas commodo turpis vel nulla tempor ullamcorper. Donec aliquet nec nisl in semper. Sed tempor nibh sem. Integer nec laoreet enim. In eget ex fringilla, euismod quam sed, facilisis sapien.</p>
-
-    </div>
-
-    
-    
-      <div class="btn-improve-page">
-          <a href="https://github.com/trepix/trepix.github.io/edit/source/content/blog/lore-ipsum-2.md">
-            <i class="icon-fork"></i>
-            Improve This Page
-          </a>
+  <div class="content container-fluid" id="content">
+    <div class="content-cards">
+      <div class="container-fluid filtr-container post-cards" id="post-cards">
+        
+          <div class="filtr-item" data-category=''>
+  <a href="/blog/lore-ipsum-2/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/assets/images/default-hero.jpg'/>
       </div>
-    
-
-    
-  <hr />
-    <div class="row next-prev-navigator">
-
-
-  
-    
-    
-  
-
+      <div class="card-body">
+        <h5 class="card-title">Lore Ipsum 2</h5>
+        <p class="card-text post-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non mi ipsum. Aenean et rutrum ante. In rhoncus ultrices elit. Aliquam id maximus neque. Etiam erat quam, consequat id posuere non, semper sit amet ipsum. Pellentesque vel eros elit. In hac habitasse platea dictumst. Vestibulum faucibus nisi nisl, nec faucibus est eleifend blandit. Nulla tempor mauris vel metus fringilla lobortis. Vestibulum hendrerit, tellus eget placerat finibus, lectus ante iaculis orci, eget semper leo metus eget nisi.</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">July 8, 2020</span>
+        <a
+        href="/blog/lore-ipsum-2/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
 </div>
 
-  <hr />
-  
-  
-      <div id="disqus_thread"></div>
-<script type="text/javascript">
-  (function () {
-    
-    
-    if (window.location.hostname == "localhost") return;
-
-    var dsq = document.createElement("script");
-    dsq.type = "text/javascript";
-    dsq.async = true;
-    var disqus_shortname = "blog-trepix-io";
-    dsq.src = "//" + disqus_shortname + ".disqus.com/embed.js";
-    (
-      document.getElementsByTagName("head")[0] ||
-      document.getElementsByTagName("body")[0]
-    ).appendChild(dsq);
-  })();
-</script>
-<noscript
-  >Please enable JavaScript to view the
-  <a href="https://disqus.com/?ref_noscript"
-    >comments powered by Disqus.</a
-  ></noscript
->
-<a href="https://disqus.com/" class="dsq-brlink"
-  >comments powered by <span class="logo-disqus">Disqus</span></a
->
-
-  
-</div>
+        
+        
+      </div>
+      
+    </div>
+  </div>
 
     </div>
 
@@ -278,12 +235,7 @@ if (!doNotTrack) {
 
     
     
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
-<script src="/assets/dist/post.bundle.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-
+    <script src="/assets/dist/blog.bundle.js"></script>
 
   </body>
 </html>
