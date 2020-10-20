@@ -4,17 +4,6 @@
   
   <url>
     <loc>https://trepix.io/blog/</loc>
-    <lastmod>2020-07-08T06:15:35+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trepix.io/blog/lore-ipsum-2/</loc>
-    <lastmod>2020-07-08T06:15:35+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trepix.io/</loc>
-    <lastmod>2020-07-08T06:15:35+06:00</lastmod>
   </url>
   
   <url>
@@ -27,6 +16,10 @@
   
   <url>
     <loc>https://trepix.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/</loc>
   </url>
   
 </urlset>
