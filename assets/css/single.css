@@ -73,6 +73,10 @@ h6 {
   padding-left: 1rem;
 }
 
+.post-content > p {
+  text-align: justify;
+}
+
 .post-content blockquote > p {
   color: #3c4858;
   margin-top: 0.5rem;
@@ -233,6 +237,7 @@ mark {
 }
 
 @media only screen and (max-width: 768px) {
+
   .wrapper {
     padding-left: 0px;
     padding-right: 0px;
@@ -243,6 +248,7 @@ mark {
   }
 }
 @media only screen and (max-width: 576px) {
+  
   .wrapper {
     padding: 0px;
   }

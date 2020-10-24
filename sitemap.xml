@@ -4,6 +4,17 @@
   
   <url>
     <loc>https://trepix.io/blog/</loc>
+    <lastmod>2020-10-10T19:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/blog/statement-of-intention/</loc>
+    <lastmod>2020-10-10T19:15:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/</loc>
+    <lastmod>2020-10-10T19:15:35+01:00</lastmod>
   </url>
   
   <url>
@@ -16,10 +27,6 @@
   
   <url>
     <loc>https://trepix.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://trepix.io/</loc>
   </url>
   
 </urlset>
