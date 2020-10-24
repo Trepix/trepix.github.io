@@ -231,6 +231,10 @@ mark {
   padding: 10px;
 }
 
+#disqus_thread {
+  min-height: 100px;
+}
+
 .btn-improve-page{
   text-align: right;
   margin-right: 1em;
