@@ -1,6 +1,6 @@
 baseURL: https://trepix.io
 languageCode: en-us
-title: "Trepix"
+title: Trepix
 theme: "trepix"
 
 # Allow raw html in markdown file
@@ -46,4 +46,8 @@ params:
     - I am working on this website
     - Don't expect too much about this 😂
     - Someday I'm gonna finish it, like university
+  
+  seo:
+    title: "Trepix"
+    description: "The resume and my blog. Learning, experience and ideas by Pau Trepat"
   
