@@ -1,5 +1,5 @@
 ---
-hero: /images/blog/statement-of-intention.svg
+hero: /images/blog/statement-of-intention.jpg
 author:
   name: Pau Trepat
   image: "/images/avatar.jpg"
