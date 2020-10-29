@@ -148,7 +148,7 @@
 
 /* Medium devices (tablets, 768px and up) */
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 834px) {
   .top-navbar .container {
     margin-top: auto;
   }
