@@ -7,10 +7,41 @@
         <description>Recent content in Blog on Trepix</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 10 Oct 2020 19:15:35 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2020 10:00:00 +0100</lastBuildDate>
         
             <atom:link href="https://trepix.io/blog/index.xml" rel="self" type="application/rss+xml" />
         
+        
+        
+            <item>
+                <title>The Nature of Software Development</title>
+                <link>https://trepix.io/blog/books/the-nature-of-software-develompent/</link>
+                <pubDate>Thu, 15 Oct 2020 10:00:00 +0100</pubDate>
+                
+                <guid>https://trepix.io/blog/books/the-nature-of-software-develompent/</guid>
+                <content>&lt;p&gt;The last technical book that I&amp;rsquo;ve recently read is The Nature of Software Development from Ron Jeffries. Manu Rivero recommended it to me inasmuch as he&amp;rsquo;d read it recently, and as I trust his criteria, I decided to read it.
+I want to divide this &amp;ldquo;review&amp;rdquo; into three sections: my reading experience (as a journal, to return just in case I re-read it), what I got from it (given my current context and knowledge) and what knowledge I think someone else might get.&lt;/p&gt;
+&lt;h4 id=&#34;my-sensations&#34;&gt;My sensations&lt;/h4&gt;
+&lt;p&gt;I think that it&amp;rsquo;s fair to say the book is well written. It was a smooth reading and it was never stodgy. Every concept is well split and each section delivers a little piece of knowledge that is easily understandable. In Spanish, we have a saying that defines so well this book: &amp;ldquo;&lt;em&gt;cortita y al pie&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s also accompanied by some drawings that help the author to explain each idea. They are not perfect but are simple and mostly, effective.&lt;/p&gt;
+&lt;p&gt;However, I feel that it didn&amp;rsquo;t bring me new disruptive concepts. The vast majority of ideas that I found remind me of the core ideas of agile software development. Well explained and effectively presented, but not much more. However, I think that it&amp;rsquo;s a book that should be read by any tech lead or CTO, if you keep reading I hope you understand why.&lt;/p&gt;
+&lt;h4 id=&#34;what-i-got-from-it&#34;&gt;What I got from it&lt;/h4&gt;
+&lt;p&gt;Okay, maybe it hasn&amp;rsquo;t brought me any new ideas but was it a waste of time? Absolutely not. I strongly agree with Eugène Ionesco&amp;rsquo;s quote: &amp;ldquo;&lt;em&gt;It is not the answer that enlightens, but the question&lt;/em&gt;&amp;rdquo; and I think this book wheels out excellent questions at the end of each section. Even if you know all the concepts from the book, if you make the effort, I believe you will find new perspectives on your day-to-day problems. So, the first is a good pool of questions to always return to at some point.&lt;/p&gt;
+&lt;p&gt;The second valuable thing that I got is an excellent way to deliver these ideas. I knew them, but this is not the same as having the skill to bring them on a discussion or chain them in a presentation with your lead. Each idea is held by a solid metaphor and at the same time supported by other ideas. Maybe I&amp;rsquo;m not gonna use them in the same way but it has brought me new approaches or pictures about the nature of software development, which adds more resources to my pool.&lt;/p&gt;
+&lt;p&gt;The most concrete valuable thing that I&amp;rsquo;ve taken is the reflection about &lt;strong&gt;what is value&lt;/strong&gt;. At the time of reading the book, I was on a discovery team, where our mission was to innovate and work on disruptive solutions for our users. And often the discussions were around what is innovation (which deserves a full post) and what is the most valuable thing that we can do. And even though it is a concrete and clear question its answer is not because value depends on the context and many other factors.
+&lt;em&gt;What is value in my context?&lt;/em&gt; or &lt;em&gt;what value I&amp;rsquo;m trying to get?&lt;/em&gt; are two questions that lately are joining my thoughts frequently. Although only a few times I find a good answer, but I believe that thinking about that keeps me away from being (too) wrong.&lt;/p&gt;
+&lt;h4 id=&#34;what-you-could-get-from-it&#34;&gt;What you could get from it&lt;/h4&gt;
+&lt;p&gt;Okay, this was my experience but what happens if you are starting to read about agile, how to improve your development approaches or how to deliver value fast? Could this book give something to you? &lt;strong&gt;Absolutely yes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;If you are used to delivering value on huge blocks, have a QA and bug fixing phase after each development cycle or even worse betting on all or nothing releasing, this book will bring you a new perspective about how things can be done. Jeffries explains very well how the importance of building the software incrementally and why it should be done in this way.&lt;/p&gt;
+&lt;p&gt;Related to that, the author also talks about the prioritization-estimation duo. He brings solid reasonings about how you should prioritize given the uncertainty, value and effort and why you should avoid too much energy on estimation due to the volatility and the changeability of the context.&lt;/p&gt;
+&lt;p&gt;If you have ever experienced a downshifting speed when developing a new product or directly a very great difficulty to iterate the product and you don&amp;rsquo;t understand why this book can offer you new perspectives. It&amp;rsquo;s not a technical book about how to manage technical debt or how to develop code to make it easier to change. It only brings a few ideas about what you should care about when developing software focusing on quality and sustainability. If you have never been exposed to them you can get a valuable discovery.&lt;/p&gt;
+&lt;p&gt;And the last thing is a different way to manage teams. If you are used to seeing traditional management (order and command) you will find a totally different approach based on trust, autonomy and delegation.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Hope you&amp;rsquo;ve found something useful, and if you&amp;rsquo;ve read the book and have a different opinion, don&amp;rsquo;t hesitate to share your thoughts. I will be happy to know about it 😄.&lt;/p&gt;
+&lt;p&gt;PS: Thanks again to Anna for help me with English&lt;/p&gt;
+</content>
+                <description>The last technical book that I&amp;rsquo;ve recently read is The Nature of Software Development from Ron Jeffries. Manu Rivero recommended it to me inasmuch as he&amp;rsquo;d read it recently, and as I trust his criteria, I decided to read it. I want to divide this &amp;ldquo;review&amp;rdquo; into three sections: my reading experience (as a journal, to return just in case I re-read it), what I got from it (given my current context and knowledge) and what knowledge I think someone else might get.</description>
+            </item>
         
         
             <item>

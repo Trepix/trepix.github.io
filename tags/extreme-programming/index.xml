@@ -2,14 +2,14 @@
 <rss version="2.0"
     xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Trepix</title>
-        <link>https://trepix.io/tags/</link>
-        <description>Recent content in Tags on Trepix</description>
+        <title>extreme programming on Trepix</title>
+        <link>https://trepix.io/tags/extreme-programming/</link>
+        <description>Recent content in extreme programming on Trepix</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 15 Oct 2020 10:00:00 +0100</lastBuildDate>
         
-            <atom:link href="https://trepix.io/tags/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://trepix.io/tags/extreme-programming/index.xml" rel="self" type="application/rss+xml" />
         
         
         

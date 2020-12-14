@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://trepix.io/tags/agile/</loc>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://trepix.io/blog/</loc>
-    <lastmod>2020-10-10T19:15:35+01:00</lastmod>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/blog/books/</loc>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/tags/extreme-programming/</loc>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/tags/</loc>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/blog/books/the-nature-of-software-develompent/</loc>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/</loc>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepix.io/tags/value/</loc>
+    <lastmod>2020-10-15T10:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -13,20 +48,7 @@
   </url>
   
   <url>
-    <loc>https://trepix.io/</loc>
-    <lastmod>2020-10-10T19:15:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trepix.io/blog/books/</loc>
-  </url>
-  
-  <url>
     <loc>https://trepix.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://trepix.io/tags/</loc>
   </url>
   
 </urlset>
