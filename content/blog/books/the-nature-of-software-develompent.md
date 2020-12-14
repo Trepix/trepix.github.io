@@ -7,7 +7,6 @@ title: "The Nature of Software Development"
 book-author: Ron Jeffries
 grade: 8
 date: 2020-10-15T10:00:00+01:00
-draft: true
 tags: 
   - extreme programming 
   - agile 
