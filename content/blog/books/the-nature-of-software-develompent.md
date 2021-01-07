@@ -40,7 +40,7 @@ _What is value in my context?_ or _what value I'm trying to get?_ are two questi
 
 Okay, this was my experience but what happens if you are starting to read about agile, how to improve your development approaches or how to deliver value fast? Could this book give something to you? **Absolutely yes**.
 
-If you are used to delivering value on huge blocks, have a QA and bug fixing phase after each development cycle or even worse betting on all or nothing releasing, this book will bring you a new perspective about how things can be done. Jeffries explains very well how the importance of building the software incrementally and why it should be done in this way.
+If you are used to delivering value on huge blocks, have a QA and bug fixing phase after each development cycle or even worse betting on all or nothing releasing, this book will bring you a new perspective about how things can be done. Jeffries explains very well the importance of building the software incrementally and why it should be done in this way.
 
 Related to that, the author also talks about the prioritization-estimation duo. He brings solid reasonings about how you should prioritize given the uncertainty, value and effort and why you should avoid too much energy on estimation due to the volatility and the changeability of the context.
 
