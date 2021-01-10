@@ -14,7 +14,7 @@ tags:
 ---
 
 
-The last technical book that I've recently read is The Nature of Software Development from Ron Jeffries. Manu Rivero recommended it to me inasmuch as he'd read it recently, and as I trust his criteria, I decided to read it.
+The last technical book that I've recently read is The Nature of Software Development by Ron Jeffries. Manu Rivero recommended it to me inasmuch as he'd read it recently, and as I trust his criteria, I decided to read it.
 I want to divide this "review" into three sections: my reading experience (as a journal, to return just in case I re-read it), what I got from it (given my current context and knowledge) and what knowledge I think someone else might get.
 
 
@@ -53,4 +53,4 @@ And the last thing is a different way to manage teams. If you are used to seeing
 Hope you've found something useful, and if you've read the book and have a different opinion, don't hesitate to share your thoughts. I will be happy to know about it 😄.
 
 
-PS: Thanks again to Anna for help me with English
+PS: Thanks again to Anna to help me with English
