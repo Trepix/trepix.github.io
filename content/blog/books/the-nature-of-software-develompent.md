@@ -6,6 +6,7 @@ author:
 title: "The Nature of Software Development"
 book-author: Ron Jeffries
 grade: 8
+language: en
 date: 2020-10-15T10:00:00+01:00
 tags: 
   - extreme programming 
@@ -18,7 +19,7 @@ The last technical book that I've recently read is The Nature of Software Develo
 I want to divide this "review" into three sections: my reading experience (as a journal, to return to just in case I re-read it), what I got from it (given my current context and knowledge) and what knowledge I think someone else might get.
 
 
-#### My sensations
+### My sensations
 I think that it's fair to say the book is well written. It was smooth reading and it was never stodgy. Every concept is well split up and each section delivers a little piece of knowledge that is easily understandable. In Spanish, we have a saying that defines this book so well: "_cortita y al pie_".
 
 It's also accompanied by some drawings that help the author to explain each idea. They are not perfect but are simple and mostly, effective.
@@ -26,7 +27,7 @@ It's also accompanied by some drawings that help the author to explain each idea
 However, I feel that it didn't bring me new disruptive concepts. The vast majority of ideas that I found remind me of the core ideas of agile software development. Well explained and effectively presented, but not much more. However, I think that it's a book that should be read by any tech lead or CTO, if you keep reading I hope you understand why.
 
 
-#### What I got from it
+### What I got from it
 
 Okay, maybe it hasn't brought me any new ideas but was it a waste of time? Absolutely not. I strongly agree with Eugène Ionesco's quote: "_It is not the answer that enlightens, but the question_" and I think this book wheels out excellent questions at the end of each section. Even if you know all the concepts from the book, if you make the effort, I believe you will find new perspectives on your day-to-day problems. So, the first is a good pool of questions to always return to at some point.
 
@@ -36,7 +37,7 @@ The most concrete valuable thing that I've taken away is the reflection on **wha
 _What is value in my context?_ or, _what value am I trying to get?_ are two questions that have frequently come to mind lately. Although I rarely find a good answer, I believe that thinking about that keeps me away from being (too) wrong.
 
 
-#### What you could get from it
+### What you could get from it
 
 Okay, this was my experience but what happens if you are starting to read about agile, how to improve your development approaches or how to deliver value fast? Could this book give something to you? **Absolutely yes**.
 
@@ -53,4 +54,4 @@ And the last thing is a different way to manage teams. If you are used to seeing
 Hope you've found something useful, and if you've read the book and have a different opinion, don't hesitate to share your thoughts. I will be happy to know about it 😄.
 
 
-PS: Thanks again to Anna to helped me with the English
+PS: Thanks again to Anna and Em to helped me with the English

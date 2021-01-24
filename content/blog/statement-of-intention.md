@@ -4,6 +4,7 @@ author:
   name: Pau Trepat
   image: "/images/avatar.jpg"
 title: "Statement of intention"
+language: en
 date: 2020-10-10T19:15:35+01:00
 ---
 
@@ -20,4 +21,4 @@ The last reason to write this blog is to improve my English, so I hope will have
 
 Hope you find something useful every once in a while. And don't hesitate to share your opinion!
 
-PS: Kudos to Anna for helping me with my English 😘
+PS: Kudos to Anna and Em for helping me with my English
