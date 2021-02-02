@@ -2,14 +2,14 @@
 <rss version="2.0"
     xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>agile on Trepix</title>
-        <link>https://trepix.io/tags/agile/</link>
-        <description>Recent content in agile on Trepix</description>
+        <title>lean on Trepix</title>
+        <link>https://trepix.io/tags/lean/</link>
+        <description>Recent content in lean on Trepix</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 15 Oct 2020 10:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2021 10:00:00 +0100</lastBuildDate>
         
-            <atom:link href="https://trepix.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://trepix.io/tags/lean/index.xml" rel="self" type="application/rss+xml" />
         
         
         

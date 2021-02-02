@@ -7,10 +7,55 @@
         <description>Recent content in Blog on Trepix</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 15 Oct 2020 10:00:00 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2021 10:00:00 +0100</lastBuildDate>
         
             <atom:link href="https://trepix.io/blog/index.xml" rel="self" type="application/rss+xml" />
         
+        
+        
+            <item>
+                <title>The Lean Startup</title>
+                <link>https://trepix.io/blog/books/the-lean-startup/</link>
+                <pubDate>Tue, 05 Jan 2021 10:00:00 +0100</pubDate>
+                
+                <guid>https://trepix.io/blog/books/the-lean-startup/</guid>
+                <content>&lt;p&gt;As always, reality is smashing my face, and I have to adapt to it instead of sticking to my plans. When I was thinking about this post I was trying to organize it like the post before (The Nature of Software Development review): my sensations, what I got from it, and what other people can get. But after reflecting I&amp;rsquo;ve concluded that it was silly.&lt;/p&gt;
+&lt;p&gt;Why? Because my knowledge about these topics is so different. While on the software side I feel strong and confident, on product development I feel lost. I don&amp;rsquo;t have references, I have not read more than articles, and I don&amp;rsquo;t even know what I don&amp;rsquo;t know. After reading my first book about this subject, I think it is normal that my list of what I&amp;rsquo;ve learned is quite long. Accordingly, I believe that I&amp;rsquo;m not able to advise others about what they can get out of it.&lt;/p&gt;
+&lt;p&gt;In short, this will be a list of what I have learned.&lt;/p&gt;
+&lt;h3 id=&#34;the-context&#34;&gt;The context&lt;/h3&gt;
+&lt;p&gt;The context almost always determines us, it is indisputable. Some books like &lt;em&gt;&amp;ldquo;The Art of War&amp;rdquo;&lt;/em&gt; or the &lt;em&gt;&amp;ldquo;The Little Prince&amp;rdquo;&lt;/em&gt; bring us different knowledge depending on our age or circumstances when we read it.
+I will write down some concepts because they are new for me, not because they are disruptive nor essential. Or maybe I will do it because they resonate with me because of our failures or lessons learnt.&lt;/p&gt;
+&lt;p&gt;To understand my takeaways, I will try to summarize some of the keys (in my opinion) of my context:
+As I said, the first circumstance is that I&amp;rsquo;m new to the product development area. So, except ideas that derive from or converge with Agile, the rest was unknown.
+The second is the feeling that in the Discovery team something was wrong. I couldn&amp;rsquo;t put my finger on what, but I felt that many things prevented us from succeeding. Maybe the first was that I was unsure what success was, but this is another story.
+The third is that after a couple of months being familiar with the product area, I started to disagree about how we were validating our progress in some cases.
+And the last is that I disagreed with how we listened to our users and how we were getting feedback.
+Regardless, if I was right about my sensations, it was how I felt about what was happening.&lt;/p&gt;
+&lt;h3 id=&#34;the-big-ideas&#34;&gt;The big ideas&lt;/h3&gt;
+&lt;p&gt;Although I have learnt many things, there are a few core ideas that marked me.&lt;/p&gt;
+&lt;h4 id=&#34;without-a-clear-hypothesis-it-is-not-possible-to-validate&#34;&gt;Without a clear hypothesis it is not possible to validate&lt;/h4&gt;
+&lt;p&gt;The first time that I read this assertion, I was shocked. I thought it is not true, I may not have any hypothesis but see how revenue increases or my user base improves. But then, the question of &lt;em&gt;The Nature Of Software Development&lt;/em&gt; came to my mind. &lt;strong&gt;What is value?&lt;/strong&gt;. And then it hit me. &lt;strong&gt;One of the most important things you can get in an uncertain scenario is clarity and knowledge.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Also, I have to say that gaining clarity or knowledge is not an excuse for the flawed execution of a plan. Sometimes people use the sentence: &lt;em&gt;&amp;ldquo;Well at least we learnt something&amp;rdquo;&lt;/em&gt;, I beg to differ. How will we know that we learnt something if we don&amp;rsquo;t know what we are searching for? It is not easy to learn from uncertainty and we can easily fall into fallacies or wrong conclusions.&lt;/p&gt;
+&lt;p&gt;Even if we succeed, to improve without understanding the whys, is like playing roulette. If we&amp;rsquo;re not aware of the context, assumptions, and actions regarding them, when we try to replicate the successes, we probably won&amp;rsquo;t be able to because maybe the context has changed or the assumptions now are wrong. It&amp;rsquo;s essential to be explicit about the premises, what we will try to achieve with the action and how we will measure it.&lt;/p&gt;
+&lt;p&gt;And no, I&amp;rsquo;m not saying that ideas could not come from beliefs or hunches. I believe there are people with amazing intuition to know what people may need or want. But these assumptions must be validated. And the best way to validate something is by using the scientific method: observing, formulating the hypothesis, testing it and then through the data drawing conclusions. Anything else is just throwing the dice and being a shaman.&lt;/p&gt;
+&lt;h4 id=&#34;vanity-metrics-and-success-theatre&#34;&gt;Vanity metrics and success theatre&lt;/h4&gt;
+&lt;p&gt;Ok, after accepting the point before, and tacking on that we need metrics, can we measure anything? The answer is nope.
+The book talks about how dangerous it is to measure the wrong things. It points out that the metrics used in an established company are not useful for a startup; for example, the total number of users. Suppose we see the total number of users is growing week after week. And this is done through marketing or growth hacking strategies. But, what happens if our product is not cool enough or useful to make them come back and the retention is extremely low? Someday we will run out of users to engage.&lt;/p&gt;
+&lt;p&gt;This situation is hazardous because it leads to a &lt;a href=&#34;https://medium.com/sequoia-capital/sustainable-product-growth-541fa786df01&#34;&gt;leaky bucket&lt;/a&gt; scenario. To be in this situation is not good, but it&amp;rsquo;s worse not to know it. Starting from the premise that we are working on innovation and don&amp;rsquo;t know many things, only being aware of it is a good step. We can work on our retention or pivot. The sooner we know it, the sooner we will do something.&lt;/p&gt;
+&lt;p&gt;But this is not easy at all. When people see the user base growing, and everything seems to be going well, who&amp;rsquo;s the jinx that raises their hand and suggests that maybe this metric is not as good as they believe? Are we sure that we want to insinuate that they are mistaken while celebrating success? And even harder, are we going to challenge the metrics that are being taught to the investors? Those metrics that maybe give them one more investment round? This situation is what Eric labels as __ success theatre__, when all the efforts go towards pretending that everything is going well instead of trying to create something sustainable and real.&lt;/p&gt;
+&lt;p&gt;Eric dedicates a full chapter to this topic. I highly recommend reading it. When writing this, I don&amp;rsquo;t precisely remember many concepts like cohort analysis or innovation accounting. As I don&amp;rsquo;t currently need them, I will go back to them when required.&lt;/p&gt;
+&lt;h4 id=&#34;value-hypothesis-and-growth-hypothesis&#34;&gt;Value hypothesis and growth hypothesis&lt;/h4&gt;
+&lt;p&gt;It can be something evident for people who are used to working in the product area, but for me, a newbie, it was meaningful learning: validating that an idea is liked by potential customers, is not the same as validating that it can become a business.&lt;/p&gt;
+&lt;p&gt;We should answer this question in the value hypothesis: &lt;strong&gt;is this product valuable to potential customers?&lt;/strong&gt;. To answer, we will rely on experiments and metrics to measure things like NPS, retention, or pay for the product. Although they are not perfect, they give us some (cheap) feedback to start. At this point, we can succeed or fail. If we fail, we can keep asking and trying to understand why. Does it really cover a user need? Or is it usable enough for our target user? If we succeed, the second part comes next.&lt;/p&gt;
+&lt;p&gt;Ok, we found something that lures people. How will the users find our product? This is the question to answer in the growth hypothesis. Do we know how we will grow? Let&amp;rsquo;s test it. And if we are right, fantastic, we are on a path  that will probably take us to success. If not, we go back again to our assumptions. Is this the correct way to reach potential users? Or even crazier, are we wrong about our target user? Let&amp;rsquo;s think about it, decide and test it again.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I link here the notes I got from the book. They are in Catalan; if you are interested, I can translate them.&lt;/p&gt;
+&lt;p&gt;x
+If you&amp;rsquo;ve read the book and have a different opinion or have learnt something else, don&amp;rsquo;t hesitate to share your thoughts. I will be happy to hear about it 😄.&lt;/p&gt;
+</content>
+                <description>As always, reality is smashing my face, and I have to adapt to it instead of sticking to my plans. When I was thinking about this post I was trying to organize it like the post before (The Nature of Software Development review): my sensations, what I got from it, and what other people can get. But after reflecting I&amp;rsquo;ve concluded that it was silly.
+Why? Because my knowledge about these topics is so different.</description>
+            </item>
         
         
             <item>
