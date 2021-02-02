@@ -66,9 +66,8 @@ Ok, we found something that lures people. How will the users find our product? T
 
 <br><br>
 
-I link here the notes I got from the book. They are in Catalan; if you are interested, I can translate them.
+I link [here](/files/summaries/the-lean-startup.pdf) the notes I got from the book. They are in Catalan; if you are interested, I can translate them.
 
-x
 If you've read the book and have a different opinion or have learnt something else, don't hesitate to share your thoughts. I will be happy to hear about it 😄.
 
 
